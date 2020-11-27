@@ -4,10 +4,15 @@ here=$(cd $( dirname "${BASH_SOURCE[0]}" ) && pwd )
 mkdir -p $here/var
 
 (cd $here/docs
+echo "# Contents : our road map"
+echo ""
 for i in *.md; do
   cat $i |gawk 'NR==1 && sub(/^[#]+[ ]*/,"") { split($0,a,":") 
                         print "- [" a[1] "]('$i') : " a[2]}'
-done > $here/docs/index.md)
+done 
+echo ""
+cat $here/README.md
+) > $here/docs/index.md
 
 pandoc                                  \
   -N                                     \
