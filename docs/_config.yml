@@ -2,4 +2,4 @@ title: Research Patterns
 description: Patterns of good and bad research papers in Software Engineering
 show_downloads: true
 google_analytics:
-remote_theme: dbtek/dbyll
+remote_theme: benbalter/retlab
