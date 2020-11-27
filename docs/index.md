@@ -4,6 +4,7 @@
 - [asdas](02thing1.md) : 
 - [Vision Papers](02vision.md) :  for convincing arguments, possibly without data
 - [Contents ](index.md) :  our road map
+- [Template ](template.md) :  Standard headings
 
 <img  width=400 align=right src="/etc/img/tion.png">
 
