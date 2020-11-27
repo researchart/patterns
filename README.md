@@ -13,16 +13,20 @@ a set of community norms, which we call _patterns_,
 that describe good and bad practice within that community.
 
 This repository is an experiment in letting a large community
-write those patterns. The aim here is that:
+write those patterns. What is proposed here is a framework that includes several
+of the "hot topics" in SE research: the need to have clearer reviewer guidelines
+for different kinds of papers; the need to explore more this community's definitions
+of _good_ and _bad_ research, the desire to publish research reports and artifact papers.
+
+The workflow suggested here is:
 
 -  Authors can browse, review, and suggest revisions to those patterns.
 - Those proposed changes are then reviewed
-  by experiences researchers
-  (e.g. Associate editors or program board members)  
+  by experiences researchers (e.g. Associate editors or program board members)  
   and, it they make sense, they will update the patterns.
+- Papers are then submitted, and reviewed, using the appropriate patterns.
 
 Patterns provide guidance for best practices when writing:
-
 
 - _Motivation_: a motivational statement on why doing some new work is important;
 - _Method_: the details on this will be investigated;
@@ -36,8 +40,11 @@ four parts. In fact, it is good practice to divide these into separate papers:
   _method_. Reviewers can offer improvements to make this paper conform to known patterns.
   By keeping these papers short, they can be kept short, thus enabling quick review
   times.
-- A subsequent (and longer) _findings_ paper that   
-  describes the results from the method. 
+- A subsequent (and longer) _findings_ paper that describes the results from the method. 
+
+Patterns-friendly venues encourage both _open issues_ and _findings_ papers
+by encouraging _open issues_ authors faster review times if they submit
+the subsequent  _findings_ paper  to the same venue.
 
 ## Patterns and Artifacts
 
