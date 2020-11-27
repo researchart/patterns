@@ -3,6 +3,11 @@
 here=$(cd $( dirname "${BASH_SOURCE[0]}" ) && pwd ) 
 mkdir -p $here/var
 
+(cd docs
+for i in *.md; do
+  echo "- [$1]($1)"
+done > $here/docs/index.md)
+
 pandoc                                  \
   -N                                     \
   --template=$here/etc/template.tex                 \
