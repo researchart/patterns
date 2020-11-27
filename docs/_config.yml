@@ -1,5 +1,5 @@
 title: Research Patterns
-description: Patterns of good and bad research papers
+description: Patterns of good and bad research papers in Software Engineering
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-midnight
+remote_theme: dbtek/dbyll
