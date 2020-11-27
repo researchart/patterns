@@ -1,5 +1,7 @@
 <img  width=400 align=right src="/etc/img/tion.png">
 
-# RESEARCH PATTERNS REPO
+# Researech Patterns Repo
 
-Rather that propose a centralized set of research "standards"  (that eveyone should follow) which  is maintained at some central site should follow, we suggest that research "patterns", 
+Research "standards"  (that eveyone should follow) are documentes maintained at some central site, by some centralized committee.
+
+is maintained at some central site should follow, we suggest that research "patterns", 
