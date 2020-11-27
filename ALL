@@ -2,3 +2,5 @@
 
 alias ls="ls -G "
 alias gp="git add *; git commit -am saving; git push; git status"
+
+here=$(cd $( dirname "${BASH_SOURCE[0]}" ) && pwd ) 
