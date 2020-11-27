@@ -5,7 +5,7 @@ mkdir -p $here/var
 
 (cd docs
 for i in *.md; do
-  echo "- [$1]($1)"
+  echo "- [$i]($i)"
 done > $here/docs/index.md)
 
 pandoc                                  \
