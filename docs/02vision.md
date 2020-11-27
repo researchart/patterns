@@ -1,4 +1,4 @@
-# Vision Paers
+# Vision Papers: for convincing arguments, possibly without data
 
 ## Application 
 

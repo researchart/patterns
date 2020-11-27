@@ -1,4 +1,4 @@
-# The General Standard
+# The General Standard: things expected in all papers
 
 
 ## Application

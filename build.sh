@@ -3,9 +3,10 @@
 here=$(cd $( dirname "${BASH_SOURCE[0]}" ) && pwd ) 
 mkdir -p $here/var
 
-(cd docs
+(cd $here/docs
 for i in *.md; do
-  echo "- [$i]($i)"
+  cat $i |gawk 'NR==1 && sub(/^[#]+[ ]*/,"") { split($0,a,":") 
+                        print "- [" a[1] "]('$i') : " a[2]}'
 done > $here/docs/index.md)
 
 pandoc                                  \

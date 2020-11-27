@@ -1,4 +1,3 @@
-- [01general.md](01general.md)
-- [02thing1.md](02thing1.md)
-- [02vision.md](02vision.md)
-- [index.md](index.md)
+- [The General Standard](01general.md) :  things expected in all papers
+- [asdas](02thing1.md) : 
+- [Vision Papers](02vision.md) :  for convincing arguments, possibly without data
