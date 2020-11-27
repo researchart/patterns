@@ -1,4 +1,3 @@
-<img  width=400 align=right src="/etc/img/tion.png">
 
 # Research Patterns: Why? What?
 
