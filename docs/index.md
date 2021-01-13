@@ -23,9 +23,9 @@ The workflow suggested here is:
 
 -  Authors can browse, review, and suggest revisions to those patterns.
 - Those proposed changes are then reviewed
-  by experiences researchers (e.g. Associate editors or program board members)  
+  by experienced researchers (e.g. Associate editors or program board members)  
   and, it they make sense, they will update the patterns.
-- Papers are then submitted, and reviewed, using the appropriate patterns.
+- Papers are then submitted, and reviewed, using the appropriate patterns. Authors may nominate a pattern their paper follows.
 - Once this process runs for a few years then, optionally, we might review the patterns
   and elevate their contents to the status of "standards".
 
@@ -34,7 +34,7 @@ As to what is a "pattern", we say that it is something that selects an appropria
 reviewing policy.
 
 - Research areas are defined by the _patterns_  of artifacts they usually create (e.g. ethnographic surveys,
-  data mining scripts, new computer languages, etc);
+  data mining scripts, new computer languages, new tools, etc);
 - A research paper is an assembly of artifacts (or pointers to external artifacts such as code);
 - Different patterns and artifacts need different reviewing standards.
 
@@ -48,7 +48,9 @@ Patterns provide guidance for best practices when writing:
 Further, we note that some artifacts are orders of magnitude slower to generate that others:
 
 - A good motivational statement might be written in a few hours/days;
+- A good prototype software system might need months to complete.
 - But a good study might need months/years to complete.
+- A good industrial system being studied might have taken years or even decade of evolution.
 
 It is therefore wise (and fast) to get
 reviewer feedback on the initial plan, lest they are wasting time on a paper that will never get
