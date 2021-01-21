@@ -2,7 +2,7 @@
 
 [about](https://arxiv.org/pdf/2010.03525.pdf) ::
 [comment](https://github.com/researchart/patterns/issues) ::
-[revision](https://github.com/researchart/patterns/edit/master/artifact.md) ::
+[revise](https://github.com/researchart/patterns/edit/master/artifact.md) ::
 [authors](#authors) 
 
 -----------
