@@ -19,48 +19,48 @@ purposes.
 
 Essential:
 
--   Artifacts are ***available***; i.e.            
-     -   Archived in a public repository (Zenodo, FigShare, institutional repositories     like DSpace) with a long-term retention  policy. 
-     -   A DOI is provided.                         
--   Artifacts are **related** to a publication (in  arxiv, in some paper databases); i.e.        
-    -   they provide essential and/or additional material to the paper, its related  experiments, and the topic presented.    
+-   Artifacts are ***available***; i.e.
+     -   Archived in a public repository (Zenodo, FigShare, institutional repositories     like DSpace) with a long-term retention  policy.
+     -   A DOI is provided.
+-   Artifacts are **related** to a publication (in  arxiv, in some paper databases); i.e.
+    -   they provide essential and/or additional material to the paper, its related  experiments, and the topic presented.
 
-Desirable       
+Desirable
 
--   Artifacts are ***functional***; i.e.           
+-   Artifacts are ***functional***; i.e.
     -   **documented**: they can be installed and  used with the provided documentation, a
-           license should indicate the rights of    the authors and of the users of the   artifact,                                
-    -   **exercisable:** included procedures can   
-     be repeated in parts or in completion    
-     (e.g. executable, repeatable experiments 
-     as software, data processing scripts,    
-     documentation for manual processes),     
-     -   **verifiable**: appropriate evidence of    
-     verification and validation for claims   
-     made in the paper (e.g. test cases that  
-     can reproduce the RQs of a paper).       
-     -   **self-contained:** they can be used with  
-     minimal (or standard) software(e.g. a    
-     Python pip package) and hardware         
-     requirements (e.g. VMWare, Docker).;     
+           license should indicate the rights of    the authors and of the users of the   artifact,
+    -   **exercisable:** included procedures can
+     be repeated in parts or in completion
+     (e.g. executable, repeatable experiments
+     as software, data processing scripts,
+     documentation for manual processes),
+     -   **verifiable**: appropriate evidence of
+     verification and validation for claims
+     made in the paper (e.g. test cases that
+     can reproduce the RQs of a paper).
+     -   **self-contained:** they can be used with
+     minimal (or standard) software(e.g. a
+     Python pip package) and hardware
+     requirements (e.g. VMWare, Docker).;
 
-Extraordinary   
+Extraordinary
 
--   Artifact is **reused**: Results, data,         
- experiments, and/or tools have been reused   
- by a different team for a purpose distinct   
- from the original paper's question. Papers   
- reusing the artifact should have a clear     
- explicit reference to the artifact.          
--   Artifact is ***reproduced***: Results of this  
- paper have been reproduced by a different    
- team using the original artifact.            
--   Artifact is ***replicated***: Results of this  
- paper have been replicated by a different    
- team without the original artifact.          
-  -   Look beyond the current venue (e.g.,       
-     conference series) to find potential     
-     replications.                            
+-   Artifact is **reused**: Results, data,
+ experiments, and/or tools have been reused
+ by a different team for a purpose distinct
+ from the original paper's question. Papers
+ reusing the artifact should have a clear
+ explicit reference to the artifact.
+-   Artifact is ***reproduced***: Results of this
+ paper have been reproduced by a different
+ team using the original artifact.
+-   Artifact is ***replicated***: Results of this
+ paper have been replicated by a different
+ team without the original artifact.
+  -   Look beyond the current venue (e.g.,
+     conference series) to find potential
+     replications.
 
 General Quality Criteria
 
