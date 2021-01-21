@@ -7,6 +7,8 @@
 
 -----------
 
+<br clear=all>
+
 # Artifact Evaluation
 
 <em>A review of artifacts associated with a publishable research paper with
