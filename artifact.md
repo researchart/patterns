@@ -7,6 +7,8 @@
 
 -----------
 
+Feedback on the following proposed standard is requested, before Feb 15, 2021.
+
 <br clear=all>
 
 # Artifact Evaluation
