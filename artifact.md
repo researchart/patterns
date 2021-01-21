@@ -11,7 +11,7 @@ submissions, e.g., via a formal artifact evaluation track, examples of
 which can be found at ICSE 2020, FSE 2020, PLDI 2020. Other venues
 include journal artifact and open science efforts. Artifact review
 typically means assigning a badge from
-[[https://www.acm.org/publications/policies/artifact-review-and-badging-current](https://www.acm.org/publications/policies/artifact-review-and-badging-current).
+[https://www.acm.org/publications/policies/artifact-review-and-badging-current](https://www.acm.org/publications/policies/artifact-review-and-badging-current).
 ***Bold-italic*** terms refer to the ACM definitions for badging
 purposes.
 
@@ -136,7 +136,7 @@ available by default.
 
 -   The list of "artifact types" is quite broad. An initial list is
     defined at:
-    [[https://github.com/researchart/all/blob/master/ListOfArtifacts.md](https://github.com/researchart/all/blob/master/ListOfArtifacts.md).
+    [https://github.com/researchart/all/blob/master/ListOfArtifacts.md](https://github.com/researchart/all/blob/master/ListOfArtifacts.md).
     Defining what kinds of artifacts should be reviewed at different
     venues is a venue-specific question. Reviewers should ensure that
     the artifact they examine aligns with the review guidelines. Being
@@ -184,7 +184,7 @@ available by default.
 ## Suggested Readings
 
 1.  A list of "artifact types" :
-    [[https://github.com/researchart/all/blob/master/ListOfArtifacts.m](https://github.com/researchart/all/blob/master/ListOfArtifacts.md)d
+    [https://github.com/researchart/all/blob/master/ListOfArtifacts.m](https://github.com/researchart/all/blob/master/ListOfArtifacts.md)d
     . Note that most artifact tracks work on items at the end of that
     list\-\--but that need not stop venues exploring other kinds of
     artifacts.
@@ -194,29 +194,29 @@ available by default.
     Engineering Conference and Symposium on the Foundations of
     Software Engineering. Association for Computing Machinery, New
     York, NY, USA, 469--480.
-    DOI:[[https://doi.org/10.1145/3368089.3409767](https://doi.org/10.1145/3368089.3409767)
+    DOI:[https://doi.org/10.1145/3368089.3409767](https://doi.org/10.1145/3368089.3409767)
 3.  Good enough practices in scientific computing, Greg Wilson, Jennifer
     Bryan , Karen Cranston, Justin Kitzes , Lex Nederbragt , Tracy K.
     Teal , Published: June 22, 2017,
     <https://doi.org/10.1371/journal.pcbi.1005510>,
-    [[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+    [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 4.  Christopher S. Timperley, Lauren Herckis, Claire Le Goues, and
     Michael Hilton. 2020. Understanding and Improving Artifact Sharing
     in Software Engineering Research. arXiv:cs.SE/2008.01046
-    [[https://arxiv.org/abs/2008.01046](https://arxiv.org/abs/2008.01046)
+    [https://arxiv.org/abs/2008.01046](https://arxiv.org/abs/2008.01046)
 5.  Chat Wacharamanotham, Lukas Eisenring, Steve Haroz, and Florian
     Echtler. 2020. Transparency of CHI Research Artifacts: Results of
     a Self-Reported Survey. Proceedings of the 2020 CHI Conference on
     Human Factors in Computing Systems. Association for Computing
     Machinery, New York, NY, USA, 1--14.
-    DOI:[[https://doi.org/10.1145/3313831.3376448](https://doi.org/10.1145/3313831.3376448)
+    DOI:[https://doi.org/10.1145/3313831.3376448](https://doi.org/10.1145/3313831.3376448)
 6.  Maria Teresa Baldassarre, Neil Ernst, Ben Hermann, Tim Menzies . On
     the Sociology of Reuse: Social and Technical Practices for Better
     Artifact Evaluation .
 7.  Pinto, Gustavo, 2021. "How To Licence Research Artifacts",
-    [[https://gustavopinto.medium.com/how-to-license-research-artifacts-2ebec048fc87](https://gustavopinto.medium.com/how-to-license-research-artifacts-2ebec048fc87)
+    [https://gustavopinto.medium.com/how-to-license-research-artifacts-2ebec048fc87](https://gustavopinto.medium.com/how-to-license-research-artifacts-2ebec048fc87)
 8.  Padhye, Rohan, 2019. "Artifact Evaluation: Tips for Authors",
-    [[https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/)
+    [https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/)
 
 ## Exemplars
 
