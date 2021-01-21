@@ -22,18 +22,18 @@ purposes.
 | Essential      | -   Artifacts are ***available***; i.e.            |
 |                |                                                    |
 |                |     -   Archived in a public repository (Zenodo,   |
-|                |         > FigShare, institutional repositories     |
-|                |         > like DSpace) with a long-term retention  |
-|                |         > policy.                                  |
+|                |         FigShare, institutional repositories     |
+|                |         like DSpace) with a long-term retention  |
+|                |         policy.                                  |
 |                |                                                    |
 |                |     -   A DOI is provided.                         |
 |                |                                                    |
 |                | -   Artifacts are **related** to a publication (in |
-|                |     > arxiv, in some paper databases); i.e.        |
+|                |     arxiv, in some paper databases); i.e.        |
 |                |                                                    |
 |                |     -   they provide essential and/or additional   |
-|                |         > material to the paper, its related       |
-|                |         > experiments, and the topic presented.    |
+|                |         material to the paper, its related       |
+|                |         experiments, and the topic presented.    |
 |----------------|----------------------------------------------------|
 | Desirable      | -   Artifacts are ***functional***; i.e.           |
 |                |                                                    |
