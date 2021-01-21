@@ -1,8 +1,16 @@
+[about](https://arxiv.org/pdf/2010.03525.pdf) ::
+[comment](https://github.com/researchart/patterns/issues) ::
+[revision](https://github.com/researchart/patterns/edit/master/artifact.md) ::
+[authors](#authors) 
+
 # Artifact Evaluation
 
 <em>A review of artifacts associated with a publishable research paper with
 the goal of encouraging more reuse of the tools and techniques generated
 by that paper.</em>
+
+
+To comment on this draft, please raise [an issue]. Tp re
 
 ## Application
 
@@ -62,7 +70,7 @@ Extraordinary
      conference series) to find potential
      replications.
 
-General Quality Criteria
+## General Quality Criteria
 
 Evaluation of artifacts should include elements such as: setting up
 documents,  licensing, artifact stored in some long term archive.
@@ -233,3 +241,8 @@ available by default.
 3.  Not from software engineering, but this is an example of research
     artifact that has become very widely used:
     https://github.com/marcotcr/lime
+
+
+## Authors
+
+Original authors: Maria-Teresa Baldassarre, Neil Enrst, Ben Hermann, Tim Menzies
