@@ -1,4 +1,4 @@
-<a href="https://github.com/researchart/patterns/issues"><img align=right src="/etc/img/feedback.png"></a>
+<a href="https://github.com/researchart/patterns/issues"><img  src="/etc/img/feedback.png"></a>
 
 [about](https://arxiv.org/pdf/2010.03525.pdf) ::
 [comment](https://github.com/researchart/patterns/issues) ::
