@@ -231,6 +231,7 @@ available by default.
     [https://gustavopinto.medium.com/how-to-license-research-artifacts-2ebec048fc87](https://gustavopinto.medium.com/how-to-license-research-artifacts-2ebec048fc87)
 8.  Padhye, Rohan, 2019. "Artifact Evaluation: Tips for Authors",
     [https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/)
+9.   https://www.artifact-eval.org by Matthias Hauswirth and Shriram Krishnamurthi
 
 ## Exemplars
 
