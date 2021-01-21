@@ -3,32 +3,27 @@
 
 ![](etc/img/standards.png)
 
-There is not "one way" to do research. 
-Researchers should be free to follow the forms that make
-sense for their work. 
-And when they do, reviewers need guidelines for reviewing
-that kind of paper.
-
 This repository is an experiment in letting a large community
 write and revise the patterns they expect to see in different kinds of papers.
-The workflow suggested here is:
+Here we say:
 
--  Authors can browse, review, and suggest revisions to those patterns.
-- Those proposed changes are then reviewed
-  by experiences researchers (e.g. Associate editors or program board members)  
-  and, it they make sense, they will update the patterns.
-- Papers are then submitted, and reviewed, using the appropriate patterns.
-- Once this process runs for a few years then, optionally, we might review the patterns
-  and elevate their contents to the status of "standards".
+- Reviewers review by quickly sniffing a paper for its "smells", before
+  diving into the details.
+- Where do these "smells" come from? Well:
+  - Papers have classes
+  - Classes may conform to patterns
+  - Patterns contain good and bad smells (things the community generally likes or 
+    questions).
 
+Authors should be able to say review 'my paper according to "this" pattern'.
+And if they don't see "their" kind of pattern, they should be free to propose 
+modifications and/or extensions to a library of patterns.
 
-As to what is a "pattern", we say that it is something that selects an appropriate
-reviewing policy.
+In this models, 
+  experiences researchers (e.g. Associate editors or program board members)  
+review proposed changes to the patterns library, perhaps rejecting or improving
+some ideas before they get added to the pattern library.
 
-- Research areas are defined by the _patterns_  of artifacts they usually create (e.g. ethnographic surveys,
-  data mining scripts, new computer languages, etc);
-- A research paper is an assembly of artifacts (or pointers to external artifacts such as code);
-- Different patterns and artifacts need different reviewing standards.
 
 Patterns provide guidance for best practices when writing:
 
@@ -37,7 +32,7 @@ Patterns provide guidance for best practices when writing:
 - _Results_: the results seen when the authors apply the method.
 - _Future Work_: statements of what should follow on from this work.
 
-Further, we note that some artifacts are orders of magnitude slower to generate that others:
+Further, some artifacts are orders of magnitude slower to generate that others:
 
 - A good motivational statement might be written in a few hours/days;
 - But a good study might need months/years to complete.
