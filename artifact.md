@@ -17,9 +17,8 @@ purposes.
 
 ### Specific Attributes
 
-+----------------+----------------------------------------------------+
 | **Importance** | **Attribute**                                      |
-+================+====================================================+
+|----------------|----------------------------------------------------|
 | Essential      | -   Artifacts are ***available***; i.e.            |
 |                |                                                    |
 |                |     -   Archived in a public repository (Zenodo,   |
@@ -35,7 +34,7 @@ purposes.
 |                |     -   they provide essential and/or additional   |
 |                |         > material to the paper, its related       |
 |                |         > experiments, and the topic presented.    |
-+----------------+----------------------------------------------------+
+|----------------|----------------------------------------------------|
 | Desirable      | -   Artifacts are ***functional***; i.e.           |
 |                |                                                    |
 |                |     -   **documented**: they can be installed and  |
@@ -59,7 +58,7 @@ purposes.
 |                |         > minimal (or standard) software(e.g. a    |
 |                |         > Python pip package) and hardware         |
 |                |         > requirements (e.g. VMWare, Docker).;     |
-+----------------+----------------------------------------------------+
+|----------------|----------------------------------------------------|
 | Extraordinary  | -   Artifact is **reused**: Results, data,         |
 |                |     > experiments, and/or tools have been reused   |
 |                |     > by a different team for a purpose distinct   |
