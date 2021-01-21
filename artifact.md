@@ -1,10 +1,10 @@
-Artifact Evaluation
+# Artifact Evaluation
 
-*A review of artifacts associated with a publishable research paper with
+<em>A review of artifacts associated with a publishable research paper with
 the goal of encouraging more reuse of the tools and techniques generated
-by that paper.*
+by that paper.</em>
 
-Application
+## Application
 
 This standard applies to review of artifacts associated with paper
 submissions, e.g., via a formal artifact evaluation track, examples of
@@ -15,7 +15,7 @@ typically means assigning a badge from
 ***Bold-italic*** terms refer to the ACM definitions for badging
 purposes.
 
-### Specific Attributes
+## Specific Attributes
 
 Essential:
 
@@ -69,13 +69,13 @@ documents,  licensing, artifact stored in some long term archive.
 Conformance to such criteria leads to accepting artifacts that are
 available by default.
 
-### Examples of Acceptable Deviations
+## Examples of Acceptable Deviations
 
 -   A reason for not providing an artifact (e.g. industrial case studies
     under NDA). However, no badge or other recognition can be awarded
     in that case.
 
-### Antipatterns
+## Antipatterns
 
 -   Artifact review is not code review. Taking longer than a few hours
     to install and run an artifact is rarely a good use of time. Thus,
@@ -118,7 +118,7 @@ available by default.
 -   Ethical/privacy considerations are ignored. E.g. data from individuals
     used in studies is pubished without due dilengance (e.g. anpnympousization)
 
-### Invalid Criticisms
+## Invalid Criticisms
 
 -   Lack of an artifact should not be grounds for rejection of the
     scientific paper. There may be valid reasons, such as industrial
@@ -132,7 +132,7 @@ available by default.
     aspects so authors should be free to use whatever sharing
     technologies they feel is appropriate.
 
-### Notes
+## Notes
 
 -   The list of "artifact types" is quite broad. An initial list is
     defined at:
@@ -181,7 +181,7 @@ available by default.
     ACM DL is even difficult to query for such artifacts and does not
     distinguish classification of papers based only on badges.
 
-### Suggested Readings
+## Suggested Readings
 
 1.  A list of "artifact types" :
     [[https://github.com/researchart/all/blob/master/ListOfArtifacts.m]{.underline}](https://github.com/researchart/all/blob/master/ListOfArtifacts.md)d
@@ -218,7 +218,7 @@ available by default.
 8.  Padhye, Rohan, 2019. "Artifact Evaluation: Tips for Authors",
     [[https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/]{.underline}](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/)
 
-### Exemplars
+## Exemplars
 
 1.  Zhongjun Jin, Michael R. Anderson, Michael Cafarella, and H. V.
     Jagadish. 2017. Foofah: Transforming Data By Example. In
