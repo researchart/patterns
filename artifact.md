@@ -1,4 +1,4 @@
-<a href="https://github.com/researchart/patterns/issues"><img align=right src="https://compass.k12albemarle.org/wp-content/uploads/2018/05/Feedback-We-Listen-Blue.jpg"></a>
+<a href="https://github.com/researchart/patterns/issues"><img align=right src="/etc/img/feedback.png"></a>
 
 [about](https://arxiv.org/pdf/2010.03525.pdf) ::
 [comment](https://github.com/researchart/patterns/issues) ::
