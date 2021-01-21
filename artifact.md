@@ -1,7 +1,10 @@
+<img align=right src="https://compass.k12albemarle.org/wp-content/uploads/2018/05/Feedback-We-Listen-Blue.jpg">
 [about](https://arxiv.org/pdf/2010.03525.pdf) ::
 [comment](https://github.com/researchart/patterns/issues) ::
 [revision](https://github.com/researchart/patterns/edit/master/artifact.md) ::
 [authors](#authors) 
+
+-----------
 
 # Artifact Evaluation
 
@@ -9,8 +12,6 @@
 the goal of encouraging more reuse of the tools and techniques generated
 by that paper.</em>
 
-
-To comment on this draft, please raise [an issue]. Tp re
 
 ## Application
 
