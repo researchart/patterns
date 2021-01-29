@@ -3,8 +3,7 @@ src="https://p19cdn4static.sharpschool.com/UserFiles/Servers/Server_269983/Image
 
 [about](https://arxiv.org/pdf/2010.03525.pdf) ::
 [comment](https://github.com/researchart/patterns/issues) ::
-[revise](https://github.com/researchart/patterns/edit/master/artifact.md) ::
-[authors](#authors) 
+[revise](https://github.com/researchart/patterns/edit/master/artifact.md) 
 
 -----------
 
