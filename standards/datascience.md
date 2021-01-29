@@ -1,3 +1,20 @@
+<a href="https://github.com/researchart/patterns/issues"><img  align=left  width=400
+src="https://p19cdn4static.sharpschool.com/UserFiles/Servers/Server_269983/Image/Feedback2.jpg"></a>
+
+[about](https://arxiv.org/pdf/2010.03525.pdf) ::
+[comment](https://github.com/researchart/patterns/issues) ::
+[revise](https://github.com/researchart/patterns/edit/master/artifact.md) ::
+[authors](#authors) 
+
+-----------
+
+Feedback on the following proposed standard is requested, before Feb 15, 2021.
+
+<br clear=all>
+
+
+
+
 # Exploratory Data Science in SE  
 
 <em>Repository Mining, and other data-centric analysis methods. 
