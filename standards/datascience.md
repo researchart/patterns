@@ -19,7 +19,7 @@ Feedback on the following proposed standard is requested, before Feb 15, 2021.
 <em>Repository Mining, and other data-centric analysis methods. 
 The topic includes studies that analyze existing software engineering artifacts via data exploration.</em>
 
-##Application
+## Application
 
 This standard applies to studies that primarily analyze existing **software engineering artifacts**, defined as ``tangible by-products produced during the development of software'' [6]. That analysis may be automatic (e.g. via data mining)  or manual (e.g. via subject matter expert interview) or some combination of both. The artifacts analyzed may  includes ( but is not limited to): source code, source code changes (commits, pull requests, reviews), requirements documents, design diagrams, communications between stakeholders (e.g., issue reports, emails, chat, app reviews), documentation (e.g. system documentation, internet forums, questions and answer sites, written and video tutorials), software ecosystems (packages, libraries, dependencies, and distributions), system logs (execution, continuous integration), interaction data (software usage data, developer interactions), code vulnerabilities, UML models, etc. The output of such data science are many, including (but not limited to)  results about particular hypothesis; data sets (to be used in subsequent challenge problems or research directions); some insight presented as a position paper (e.g. that proposes future work for groups of researchers); the tools used for the analysis (e.g. some software analytics toolkit).
 
