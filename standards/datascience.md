@@ -40,25 +40,26 @@ Data exploration  in SE is still a rapidly evolving field. Hence, the following 
 
 ### Essential
 
-- Clearly discusses   motivation:  (e.g. why is it useful/timely to explore this  problem and/or analysis method?).
+- Clearly discusses motivation:  (e.g. why is it useful/timely to explore this  problem and/or analysis method?, how does it relevant/impact to SE practices?).
 - Clearly discusses methods; e.g., how and why the data was selected, pre-processed, filtered, and categorized. E.g. what (and why) prior work was selected as for the purposes of baseline comparisons.  If a data preprocessor changes test data, then
 
 
 - Clearly discusses data:
-   -  Described the source of the data as well as including  statistics in thdata (descriptive or otherwise) on that data. 
+   -  Described the source of the data as well as including  statistics in the data (descriptive or otherwise) on that data. 
 	 - Clearly describe how and why the data was selected, pre-processed and filtered.
 	    - Clearly justify why that particular pre-process transforms were applied.
 	    - Automated or manual heuristics used in this process must be documented.
-- Clearly describes results.
-- Clarly dsecribes related work. 
+- Clearly describes results. (e.g., what is the key result, what is the implication)
+- Clearly describes related work. (e.g., how this work is different from prior works, what are the limitations/gaps of prior work so a new work is needed)
 - Clearly discusses threats to validity using an appropriate framework (either using common standards [7] or a threat to validity appropriate to this study). 
 - Clearly discusses important data issues that may affect the findings, and EITHER motivates how they are mitigated OR evaluates the impact of the issue (e.g., by a subsequent analysis) OR clearly documents the limitations while avoiding overclaiming.
+- Ensures that thee paper performs correlation analysis if the goal is to interpret models or perform multiple hypothesis testing [11, 12].
 - Ensures that the paper takes appropriate measures against false discoveries due to multiple hypothesis testing.
 
 ### Desirable
 
 
-- Data is processed by multiple learners, of different types, e.g. regression, bayes classifier, decision tree, random forests, SVM (maybe with different kernels); e.g. see [10] for guidance.
+- Data is processed by multiple learners, of different types, e.g. regression, bayes classifier, decision tree, random forests, SVM (maybe with different kernels); e.g. see [10, 11] for guidance.
 - Data is processed multiple times with different randomly selected training/test examples; results of which are compared via significance tests and effect size tests.
 - Study carefully selects the hyperparameters that control the data miners (e.g. via are a careful analysis of settings seen in related work; e.g. via some automatic hyperparameter optimizer).
 - Compares against baselines; i.e. reproduces and/or replicates  prior work related work (perhaps with some small improvements or even a “negative” report commenting that it was not possible to achieve reproduction or replication).
@@ -81,7 +82,7 @@ Data exploration  in SE is still a rapidly evolving field. Hence, the following 
 - Data not shared since it is impractical to share (too large, too sensitive).
 - Not using temporal analysis techniques such as time series when the data is not easily converted to time series (e.g. some aspects of source code evolution may not be easily modelled as time series).
 - Not all studies need statistics and hypotheses. Some studies can be purely or principally descriptive.
-  - Different exproationations have different requirements [8]:
+  - Different data explorations have different requirements [8]:
       - For example, summarizing past data might only need some topic modeling regression on past data since the goal of that study is not to predict on figure cases). 
       - But There are other kinds of studies that need extensive evaluation via “hold out sets” (where the available data is divided into multiple train and test sets) since the goal of those studies is to make predictions on as-yet-unseen data.
 
@@ -98,11 +99,11 @@ Data exploration  in SE is still a rapidly evolving field. Hence, the following 
 
 ## Invalid Criticisms 
 
-- Data is not appropriate for the study (e.g., using bug reports comments as code review data).
+- Data is not appropriate for the study (e.g., using bug reports comments as code review data), data is not up-to-date.
 - Does not have a reproduction package. Currently, only 60% of SE papers from FSE,ASE, EMSE etc come with reproduction packages. Hence we say such packages are desirable, but not essential, since the community does not judge them as essential.
 - Findings are not actionable: not all studies may have directly actionable findings in the short term.
-- "Needs more data" as a generic criticism without a clear, justified reason.
-- Study does not use qualitative data.
+- "Needs more data" as a generic criticism without a clear, justified reason. Avoid N+1 criticism. 
+- Study does not use qualitative data. A user study is not always required.
 - Study does not make causal claims, when it cannot.
 - Study does not use the most precise data source, unless the data source is clearly problematic for the study at hand. Some data is impractical to collect at scale.
 - Study does not use method XYZ. Apply this criticism with care. Data science is a very broad field and no paper can explore all parts.
@@ -120,7 +121,8 @@ Data exploration  in SE is still a rapidly evolving field. Hence, the following 
 8.  Raymond P. L. Buse and Thomas Zimmermann. 2012. Information needs for software development analytics. In Proceedings of the 34th International Conference on Software Engineering (ICSE '12). IEEE Press, 987–996.
 9.  https://aaai.org/Conferences/AAAI-21/reproducibility-checklist/
 10.  Baljinder Ghotra, Shane McIntosh, and Ahmed E. Hassan. 2015. Revisiting the impact of classification techniques on the performance of defect prediction models. In Proceedings of the 37th International Conference on Software Engineering - Volume 1 (ICSE '15). IEEE Press, 789–800.
-
+11. Chakkrit Tantithamthavorn, Ahmed E. Hassan: An experience report on defect modelling in practice: pitfalls and challenges, In Proceedings of the ICSE-SEIP'18.
+12. Jirayus Jiarpakdee, Chakkrit Tantithamthavorn, Ahmed E. Hassan: The Impact of Correlated Metrics on Defect Models. IEEE Transactions on Software Engineering (TSE).
 
 
 
