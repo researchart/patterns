@@ -43,7 +43,8 @@ Desirable
 
 -   Artifacts are ***functional***; i.e.
     -   **documented**: they can be installed and  used with the provided documentation, a
-           license should indicate the rights of    the authors and of the users of the   artifact,
+           license should indicate the rights of    the authors and of the users of the   artifact. For a good reference for 
+            selecting a license, see https://choosealicense.com/
     -   **exercisable:** included procedures can
      be repeated in parts or in completion
      (e.g. executable, repeatable experiments
@@ -160,12 +161,12 @@ available by default.
     of ethical standards are ultimately the responsibility of the
     submitter, review is often seen as an endorsement from the venue.
     Artifact review should consider issues such as licencing
-    (restrictive? permissive?), institutional review of human subjects
+    (restrictive? permissive?) institutional review of human subjects
     research (the IRB certificate should form part of the submission),
     data provenance (is the dataset biased?), and privacy protection
     (can individual information be obtained? At archive sites such as
     Zenodo, it may not be possible to remove individual data such as
-    emails).
+    emails). 
 -   Artifact evaluation committees find that some badges are easier to
     evaluate than others. An available badge can be instantly assigned
     when (a) an artifact is available on some archival service; and
