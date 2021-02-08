@@ -242,6 +242,9 @@ available by default.
 9.   https://www.artifact-eval.org by Matthias Hauswirth and Shriram Krishnamurthi
 10.  [Berkeley Reproducible Research Practices: Research Data Management](https://guides.lib.berkeley.edu/reproducibility-guide).
 11.  AAAI [Reproducability Checklist](https://aaai.org/Conferences/AAAI-21/reproducibility-checklist/)
+12.  [FAIR Principles for Artifacts](https://www.force11.org/group/fairgroup/fairprinciples)
+13.   [A Fresh Look at FAIR for Research Software](https://arxiv.org/abs/2101.10883)
+
 
 ## Exemplars
 
