@@ -40,8 +40,8 @@ Data exploration  in SE is still a rapidly evolving field. Hence, the following 
 
 ### Essential
 
-- Clearly discusses   motivation:  (e.g. why is it useful/timely to explore this  problem and/or analysis method?).
-- Clearly discusses methods; e.g., how and why the data was selected, pre-processed, filtered, and categorized. E.g. what (and why) prior work was selected as for the purposes of baseline comparisons.  If a data preprocessor changes test data, then
+- Clearly discusses   motivation:  (e.g. what claims are being investigated, why is it useful/timely to explore this  problem and/or analysis method?).
+- Clearly discusses methods; E.g. how and why the data was selected, pre-processed, filtered, and categorized. E.g. what (and why) prior work was selected as for the purposes of baseline comparisons.  E.g. conceptual outline and/or pseudocode description of AI methods introduced. E.g.  the computing infrastructure used for running experiments (hardware and software), including GPU/CPU models; amount of memory; operating system; names and versions of relevant software libraries and frameworks.  
 
 
 - Clearly discusses data:
@@ -49,15 +49,17 @@ Data exploration  in SE is still a rapidly evolving field. Hence, the following 
 	 - Clearly describe how and why the data was selected, pre-processed and filtered.
 	    - Clearly justify why that particular pre-process transforms were applied.
 	    - Automated or manual heuristics used in this process must be documented.
-- Clearly describes results.
-- Clarly dsecribes related work. 
-- Clearly discusses threats to validity using an appropriate framework (either using common standards [7] or a threat to validity appropriate to this study). 
+- Clearly descibes results analysis method.  Clearly describes evaluation metrics used and explains the motivation for choosing these metrics. 	
+   Analysis of results goes beyond single-dimensional summaries of performance (e.g., average; median) to include measures of variation, confidence, or other distributional information.
+- Clearly describes results (and how the results substantiate the claims).
+- Clarly describes related work. 
+- Clearly discusses threats to validity identifying limitations or technical assumptions (using an appropriate framework either using common standards [7] or a threat to validity appropriate to this study). 
 - Clearly discusses important data issues that may affect the findings, and EITHER motivates how they are mitigated OR evaluates the impact of the issue (e.g., by a subsequent analysis) OR clearly documents the limitations while avoiding overclaiming.
-- Ensures that the paper takes appropriate measures against false discoveries due to multiple hypothesis testing.
+-  Ensures that the paper takes appropriate measures against false discoveries due to multiple hypothesis testing. Formally describes evaluation metrics used and explains the motivation for choosing these metric
 
 ### Desirable
 
-
+ 
 - Data is processed by multiple learners, of different types, e.g. regression, bayes classifier, decision tree, random forests, SVM (maybe with different kernels); e.g. see [10] for guidance.
 - Data is processed multiple times with different randomly selected training/test examples; results of which are compared via significance tests and effect size tests.
 - Study carefully selects the hyperparameters that control the data miners (e.g. via are a careful analysis of settings seen in related work; e.g. via some automatic hyperparameter optimizer).
@@ -65,7 +67,7 @@ Data exploration  in SE is still a rapidly evolving field. Hence, the following 
 - For studies not based on proprietary  data:  a replication package is made available that conforms to SIGSOFT standards for a functional artifact. 
   - And if  data cannot be shared (e.g. an  industrial case study), it is desirable to create a sample dataset that can be shared to illustrate the use of the algorithms.
 - Data sanity checks: some non-trivial portion of the data was selected and manually inspected. 
-- Has evaluated the paper against the AAAI Reproducibility checklist [9].
+
 
 ### Extraordinary
 
