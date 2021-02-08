@@ -43,13 +43,14 @@ Desirable
 
 -   Artifacts are ***functional***; i.e.
     -   **documented**: they can be installed and  used with the provided documentation, a
-           license should indicate the rights of    the authors and of the users of the   artifact. For a good reference for 
-            selecting a license, see https://choosealicense.com/
+           license should indicate the rights of    the authors and of the users of the   artifact. 
+           The use of a `README.md` ile is highly recommended. Also, consider using a `requirements.txt` file to clearly list dependancies. For a good reference for 
+            selecting a license, see https://choosealicense.com/. 
     -   **exercisable:** included procedures can
      be repeated in parts or in completion
      (e.g. executable, repeatable experiments
      as software, data processing scripts,
-     documentation for manual processes),
+     documentation for manual processes).
      -   **verifiable**: appropriate evidence of
      verification and validation for claims
      made in the paper (e.g. test cases that
@@ -100,6 +101,8 @@ available by default.
     of concept. The replication should be a peer-reviewed scientific
     publication and should cite/refer to the artifact that is being
     used.
+-   Assigning the wrong artifacts to the wrong reviewers. Different artifacts require different technical expertise (platform availablity,
+    background technical knowledge) so an attempt should be made to match artifacts to the approrpate reviewer.
 -   Not giving your reviewers the time required to interact with
     authors. Such interaction is useful when (e.g.) finding and fixing
     one letter typos in Makefiles. For this purpose, (a) artifact
@@ -195,6 +198,10 @@ available by default.
     libraries such as IEEEXplore or SpringerLink do not. Furthermore,
     ACM DL is even difficult to query for such artifacts and does not
     distinguish classification of papers based only on badges.
+ -  Some artifacts are difficult to run (e.g. Deep Learners might need GPU support and some algorithms take 
+    days/weeks/months to  terminate). These need to be evaluated on a case-by-case basis. For example,
+    an artifact might be judged "reusable" if it can be shown that 
+    the artifact does run on publcially available platforms (e.g. AWS) if enough funds are available.
 
 ## Suggested Readings
 
@@ -233,6 +240,8 @@ available by default.
 8.  Padhye, Rohan, 2019. "Artifact Evaluation: Tips for Authors",
     [https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/)
 9.   https://www.artifact-eval.org by Matthias Hauswirth and Shriram Krishnamurthi
+10.  [Berkeley Reproducible Research Practices: Research Data Management](https://guides.lib.berkeley.edu/reproducibility-guide).
+11.  AAAI [Reproducability Checklist](https://aaai.org/Conferences/AAAI-21/reproducibility-checklist/)
 
 ## Exemplars
 
