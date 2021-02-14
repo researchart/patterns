@@ -139,8 +139,10 @@ available by default.
 ## Invalid Criticisms
 
 -   Lack of an artifact should not be grounds for rejection of the
-    scientific paper. There may be valid reasons, such as industrial
-    non-disclosure agreements.
+    scientific paper. 
+    -  There may be valid reasons why a study/paper does not include an artifact, including legal agreements with collaborators such as non-disclosure agreements, or privacy concerns, for example, personally identifiable information or institutional review board approvals. 
+     - On the other hand  if that industrial project using code from open-source from, eg, Github then it may be possible
+    to create an artifact with some/all of the software).
 -   Reviewers should look beyond simple code errors and library issues.
     These bugs can usually be easily fixed by the submitters.
 -   "The code should be in a Docker container". Software sharing
