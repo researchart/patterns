@@ -208,7 +208,7 @@ available by default.
 ## Suggested Readings
 
 1.  A list of "artifact types" :
-    [https://github.com/researchart/all/blob/master/ListOfArtifacts.m](https://github.com/researchart/all/blob/master/ListOfArtifacts.md)d
+    [https://github.com/researchart/all/blob/master/ListOfArtifacts.md](https://github.com/researchart/all/blob/master/ListOfArtifacts.md)
     . Note that most artifact tracks work on items at the end of that
     list\-\--but that need not stop venues exploring other kinds of
     artifacts.
