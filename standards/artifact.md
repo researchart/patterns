@@ -134,7 +134,7 @@ available by default.
     hand are more lenient and work with authors to (e.g.) fix one
     letter typos that stop installation scripts running.
 -   Ethical/privacy considerations are ignored. E.g. data from individuals
-    used in studies is pubished without due dilengance (e.g. anpnympousization)
+    used in studies is pubished without due diligence (e.g. anonymization).
 
 ## Invalid Criticisms
 
@@ -167,7 +167,7 @@ available by default.
     submitter, review is often seen as an endorsement from the venue.
     Artifact review should consider issues such as licencing
     (restrictive? permissive?) institutional review of human subjects
-    research (the IRB certificate should form part of the submission),
+    research (the IRB certificate, where applicable, should form part of the submission),
     data provenance (is the dataset biased?), and privacy protection
     (can individual information be obtained? At archive sites such as
     Zenodo, it may not be possible to remove individual data such as
@@ -267,4 +267,4 @@ available by default.
 
 ## Authors
 
-Original authors: Maria-Teresa Baldassarre, Neil Enrst, Ben Hermann, Tim Menzies
+Original authors: Maria-Teresa Baldassarre, Neil Ernst, Ben Hermann, Tim Menzies
