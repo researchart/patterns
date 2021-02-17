@@ -122,8 +122,4 @@ Data exploration  in SE is still a rapidly evolving field. Hence, the following 
 8.  Raymond P. L. Buse and Thomas Zimmermann. 2012. Information needs for software development analytics. In Proceedings of the 34th International Conference on Software Engineering (ICSE '12). IEEE Press, 987–996.
 9.  https://aaai.org/Conferences/AAAI-21/reproducibility-checklist/
 10.  Baljinder Ghotra, Shane McIntosh, and Ahmed E. Hassan. 2015. Revisiting the impact of classification techniques on the performance of defect prediction models. In Proceedings of the 37th International Conference on Software Engineering - Volume 1 (ICSE '15). IEEE Press, 789–800.
-
-
-
-
-
+11.  Daniel Russo and Klaas-Jan Stol. In press. PLS-SEM for Software Engineering Research: An Introduction and Survey. *ACM Computing Surveys*.  
