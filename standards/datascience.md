@@ -26,7 +26,6 @@ This standard applies to studies that primarily analyze existing **software engi
 
 ## Specific Attributes
 
-XXX monimize false distoceru
 ### Essentiall
 
 - Discusses motivation.  What claims are being investigated, why is it useful/timely to explore this  problem and/or analysis method?
