@@ -114,18 +114,17 @@ XXX monimize false distoceru
 
 ## Exemplars
 
-promie and perlils of mining github
 
-mockus ieee tras 2002
+1. A. Barua, S. W. Thomas, A. E. Hassan, What are developers talkingabout? an analysis of topics and trends in stack overflow, Empirical Software Engineering 19 (3) (2014) 619–654.
+2. Bird, C., Rigby, P. C., Barr, E. T., Hamilton, D. J., German, D. M., & Devanbu, P. (2009, May). The promises and perils of mining git. In 2009 6th IEEE International Working Conference on Mining Software Repositories (pp. 1-10). IEEE.
+3. Kalliamvakou, E., Gousios, G., Blincoe, K., Singer, L., Germán, D. M. & Damian, D. E. (2014). The promises and perils of mining GitHub.. In P. T. Devanbu, S. Kim & M. Pinzger (eds.), MSR (p./pp. 92-101), : ACM. ISBN: 978-1-4503-2863-0
+4. Herbsleb, J. & Mockus, A. (2003). An Empirical Study of Speed and Communication in Globally Distributed Software Development. IEEE Transactions on Software Engineering, 29, 481-94.
 
-why and why smell
+4. Menzies, T., Greenwald, J., & Frank, A. (2006). Data mining static code attributes to learn defect predictors. IEEE transactions on software engineering, 33(1), 2-13.
+5. Menzies, T., & Marcus, A. (2008, September). Automated severity assessment of software defect reports. In 2008 IEEE International Conference on Software Maintenance (pp. 346-355). IEEE.
+6. Nair, V., Agrawal, A., Chen, J., Fu, W., Mathew, G., Menzies, T., Minku, L. L., Wagner, M. & Yu, Z. (2018). Data-driven search-based software engineering.. In A. Zaidman, Y. Kamei & E. Hill (eds.), MSR (p./pp. 341-352), : ACM.
+7. Rahman, F., & Devanbu, P. (2013, May). How, and why, process metrics are better. In 2013 35th International Conference on Software Engineering (ICSE) (pp. 432-441). IEEE.
+8. Tufano, M., Palomba, F., Bavota, G., Oliveto, R., Penta, M. D., Lucia, A. D. & Poshyvanyk, D. (2017). When and Why Your Code Starts to Smell Bad (and Whether the Smells Go Away).. IEEE Trans. Software Eng., 43, 1063-1088.
 
-2009 adni servercis
 
-2007 decte prediction mendozes
 
-ahmed ahossen emse stoackovery code smommetns
-
-process vs product metrics
-
-data-drive search-based softawre engienering MSR hightly cited
