@@ -21,25 +21,24 @@ The topic includes studies that analyze existing software engineering artifacts 
 
 ## Application
 
-This standard applies to studies that primarily analyze existing **software engineering artifacts**, defined as ``tangible by-products produced during the development of software'' [6].  Note that there are very kinds of such by-products incuding (but not limited to social metrics, descriptions of code, etc).
+This standard applies to studies that primarily analyze existing **software engineering artifacts**, defined as ``tangible by-products produced during the development of software'' [6].  Note that there are very kinds of such by-products including (but not limited to social metrics, descriptions of code, etc).
 
 
 ## Specific Attributes
 
-### Essentiall
+### Essential
 
-- Discusses motivation.  What claims are being investigated, why is it useful/timely to explore this  problem and/or analysis method?
-- Discusses methods;  how and why the data was selected
+- Discusses motivation. What claims are being investigated, why is it useful/timely to explore this  problem and/or data-scientific analysis method?
+- Discusses data selection methods; e.g., discusses how and why the data was selected and what feature engineering approaches and transformations were applied
 - Discusse how the data was  pre-processed, filtered, and categorized
 - Discusses what (and why) prior work was selected as for the purposes of baseline comparisons.  
-- Presents the experimental rig; e.g. a dipiction and/or alggorithm pusedocode.
+- Presents the experimental rig; e.g. a depiction and/or algorithm pseudocode.
 - Discusses the computing infrastructure used for running experiments (hardware and software), including GPU/CPU models; amount of memory; operating system; names and versions of relevant software libraries and frameworks.  
-- Motivates which partricular kinds of  statistics were used to analsis the experimentao results   (descriptive or otherwise) 
+- Motivates which particular kinds of  statistics were used to analyse the experimental results   (descriptive or otherwise) 
 - Automated or manual heuristics used in this process must be documented.  
-- Describes the   evaluation metrics used (and explains the motivation for choosing these metrics). 	
+- Describes the evaluation metrics used (and explains the motivation for choosing these metrics). 	
 - Analysis of results goes beyond single-dimensional summaries of performance (e.g., average; median) to include measures of variation, confidence, or other distributional information.
-- Describes related work. 
-- Discusses threats to validity identifying contstruct validity and limitations or technical assumptions (using an appropriate framework either using common standards [7] or a threat to validity appropriate to this study).
+- Discusses threats to validity identifying construct validity and limitations or technical assumptions (using an appropriate framework either using common standards [7] or a threat to validity appropriate to this study).
 
 ### Desirable
 
@@ -69,7 +68,7 @@ This standard applies to studies that primarily analyze existing **software engi
 - Data not shared since it is impractical to share (too large, too sensitive).
 - Not using temporal analysis techniques such as time series when the data is not easily converted to time series (e.g. some aspects of source code evolution may not be easily modelled as time series).
 - Not all studies need statistics and hypotheses. Some studies can be purely or principally descriptive.
-  - Different explainations  have different requirements [8]:
+  - Different explanations  have different requirements [8]:
       - For example, summarizing past data might only need some topic modeling regression on past data since the goal of that study is not to predict on figure cases). 
       - But there are other kinds of studies that need extensive evaluation via “hold out sets” (where the available data is divided into multiple train and test sets) since the goal of those studies is to make predictions on as-yet-unseen data.
 
@@ -86,9 +85,9 @@ This standard applies to studies that primarily analyze existing **software engi
 
 ## Invalid Criticisms 
 
--  Data is not appropriate for the study. Different domains supprot so many kinds of data that no researcher
-  can study them all. So if a researcehr carefully justidies the used of data X from domain D, it may be
-	unfair for reviewers to demand the anlysis of other data Y from the same domain.
+-  Data is not appropriate for the study. Different domains support so many kinds of data that no researcher
+  can study them all. So if a researcher carefully justifies the used of data X from domain D, it may be
+	unfair for reviewers to demand the analysis of other data Y from the same domain.
 - Does not have a reproduction package. Currently, only 60% of SE papers from FSE,ASE, EMSE etc come with reproduction packages. Hence we say such packages are desirable, but not essential, since the community does not judge them as essential.
 - Findings are not actionable: not all studies may have directly actionable findings in the short term.
 - "Needs more data" as a generic criticism without a clear, justified reason.
