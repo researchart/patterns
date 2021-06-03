@@ -246,6 +246,7 @@ available by default.
 11.  AAAI [Reproducability Checklist](https://aaai.org/Conferences/AAAI-21/reproducibility-checklist/)
 12.  [FAIR Principles for Artifacts](https://www.force11.org/group/fairgroup/fairprinciples)
 13.   [A Fresh Look at FAIR for Research Software](https://arxiv.org/abs/2101.10883)
+14.   Mendez, Daniel; Abrahåo, Silvia (2021): ICSE 2021 Artefact Evaluation - Submission and Reviewing Guidelines. figshare. Online resource. https://doi.org/10.6084/m9.figshare.14123639.v2 
 
 
 ## Exemplars
