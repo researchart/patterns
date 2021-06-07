@@ -1,28 +1,14 @@
-<a href="https://github.com/researchart/patterns/issues"><img  align=left src="/etc/img/feedback.png"></a>
-
-[about](https://arxiv.org/pdf/2010.03525.pdf) ::
-[comment](https://github.com/researchart/patterns/issues) ::
-[revise](https://github.com/researchart/patterns/edit/master/artifact.md) ::
-[authors](#authors) 
-
------------
-
-Feedback on the following proposed standard is requested, before Feb 15, 2021.
-
-<br clear=all>
-
 # Artifact Evaluation
 
-<em>A review of artifacts associated with a publishable research paper with
-the goal of encouraging more reuse of the tools and techniques generated
+<em>Assessing virtual, synthetic objects associated with a publishable research paper, typically to encourage more reuse of the tools and techniques generated
 by that paper.</em>
 
 
 ## Application
 
-This standard applies to review of artifacts associated with paper
-submissions, e.g., via a formal artifact evaluation track, examples of
-which can be found at ICSE 2020, FSE 2020, PLDI 2020. Other venues
+This standard applies artifacts associated with paper submissions, 
+especially artifacts submitted to a formal artifact evaluation track 
+such as those found at ICSE 2020, FSE 2020, PLDI 2020. Other venues
 include journal artifact and open science efforts. Artifact review
 typically means assigning a badge from
 [https://www.acm.org/publications/policies/artifact-review-and-badging-current](https://www.acm.org/publications/policies/artifact-review-and-badging-current).
@@ -31,47 +17,43 @@ purposes.
 
 ## Specific Attributes
 
-Essential:
+### Essential:
 
 -   Artifacts are ***available***; i.e.
-     -   Archived in a public repository (Zenodo, FigShare, institutional repositories     like DSpace) with a long-term retention  policy.
+     -   Archived in a public repository with a long-term retention policy (e.g. Zenodo, FigShare, DSpace)
      -   A DOI is provided.
--   Artifacts are **related** to a publication (in  arxiv, in some paper databases); i.e.
-    -   they provide essential and/or additional material to the paper, its related  experiments, and the topic presented.
+-   Artifacts are **related** to a mansucript or publication; i.e., they provide essential and/or additional material to the paper
 
-Desirable
+### Desirable
 
--   Artifacts are ***functional***; i.e.
-    -   **documented**: they can be installed and  used with the provided documentation, a
-           license should indicate the rights of    the authors and of the users of the   artifact. 
-           The use of a `README.md` ile is highly recommended. Also, consider using a `requirements.txt` file to clearly list dependancies. For a good reference for 
-            selecting a license, see https://choosealicense.com/. 
-    -   **exercisable:** included procedures can
-     be repeated in parts or in completion
+Artifacts are ***functional***; i.e.
+- [ ] **documented**: they can be installed and used with the provided documentation. The use of a `README.md` ile is highly recommended. Also, consider using a `requirements.txt` file to clearly list dependancies.
+- [ ] **licensed**: an explicit license indicates the rights of the creators and of the users of the artifact. 
+    For a good reference for selecting a license, see https://choosealicense.com/. 
+- [ ] **exercisable:** included procedures can
+     be repeated in parts or as a whole
      (e.g. executable, repeatable experiments
      as software, data processing scripts,
      documentation for manual processes).
-     -   **verifiable**: appropriate evidence of
+- [ ] **verifiable**: appropriate evidence of
      verification and validation for claims
      made in the paper (e.g. test cases that
      can reproduce the RQs of a paper).
-     -   **self-contained:** they can be used with
-     minimal (or standard) software(e.g. a
+- [ ] **self-contained:** they can be used with
+     minimal (or standard) software (e.g. a
      Python pip package) and hardware
-     requirements (e.g. VMWare, Docker).;
+     requirements (e.g. VMWare, Docker).
 
-Extraordinary
+### Extraordinary
 
--   Artifact is **reused**: Results, data,
+- [ ] Artifact is **reused**: Results, data,
  experiments, and/or tools have been reused
  by a different team for a purpose distinct
- from the original paper's question. Papers
- reusing the artifact should have a clear
- explicit reference to the artifact.
--   Artifact is ***reproduced***: Results of this
+ from the original paper's question. 
+- [ ] Artifact is ***reproduced***: Results of this
  paper have been reproduced by a different
  team using the original artifact.
--   Artifact is ***replicated***: Results of this
+- [ ]  Artifact is ***replicated***: Results of this
  paper have been replicated by a different
  team without the original artifact.
   -   Look beyond the current venue (e.g.,
@@ -81,7 +63,7 @@ Extraordinary
 ## General Quality Criteria
 
 Evaluation of artifacts should include elements such as: setting up
-documents,  licensing, artifact stored in some long term archive.
+documents, licensing, artifact stored in some long term archive.
 Conformance to such criteria leads to accepting artifacts that are
 available by default.
 
